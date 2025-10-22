@@ -2,8 +2,7 @@
 
 Hi there, I'm Nitin 👋
 
-I'm a B.Tech student and MERN Stack Developer. I'm passionate about building web applications and exploring new technologies.
-
+I’m currently a B.Tech student and a MERN Stack developer, actively learning Spring Boot. I have a keen interest in AI/ML, Data Science, photography, and exploring new technologies. I’m always passionate about learning and growing through new experiences.
 </div>
 
 <hr />
