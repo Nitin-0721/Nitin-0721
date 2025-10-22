@@ -1,6 +1,13 @@
- Hi there, I'm Nitin 👋
+<div align="center">
 
- I’m currently a B.Tech student and a MERN Stack developer, actively learning Spring Boot. I have a keen interest in AI/ML, Data Science, photography, and exploring new technologies. I’m always passionate about learning and growing through new experiences.
+Hi there, I'm Nitin 👋
+
+I'm a B.Tech student and MERN Stack Developer. I'm passionate about building web applications and exploring new technologies.
+
+</div>
+
+<hr />
+
 🔭 About Me
 
 <!-- Use this section to talk about your interests and what you're working on. -->
@@ -19,6 +26,8 @@
 
 ⚡ Fun fact: I have a keen interest in photography and a constant passion for learning.
 
+<hr />
+
 🛠️ My Tech Stack
 
 <!--
@@ -26,7 +35,7 @@ Add the technologies you're comfortable with.
 You can find more icons at https://shields.io/ or https://github.com/simple-icons/simple-icons
 -->
 
-<p align="left">
+<p align="center">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React" />
@@ -35,6 +44,8 @@ You can find more icons at https://shields.io/ or https://github.com/simple-icon
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite" alt="AWS" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker" />
 </p>
+
+<hr />
 
 📊 My GitHub Stats
 
@@ -55,6 +66,8 @@ You can customize the theme here: https://www.google.com/search?q=https://github
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DNitin-0721%26layout%3Dcompact%26theme%3Dradical" alt="Nitin-0721's Top Languages" />
 </p>
 
+<hr />
+
 📬 Connect With Me
 
 <!-- Add links to your social profiles. -->
@@ -70,7 +83,6 @@ You can customize the theme here: https://www.google.com/search?q=https://github
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
 </a>
 <a href="https://your-portfolio.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-333333%3Fstyle%3Dfor-the-badge%26logo%3Ddata:image/svg%2Bxml%3Bbase64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BV2Vic2l0ZTwvdGl0bGU%2BPHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMTguNjI3IDAgMTIgMHptNi4yIDE1LjRjLS4yIDAtLjMuMS0uNS4xLTMuMiAwLTUuMy0xLjktNy0zLjktLjEtLjEtLjEtLjEtLjItLjIgLjUgMS42IDEuOCAzLjcgNS4yIDMuNy45IDAgMS40LS4xIDEuOC0uMmwuMS41Yy0uNS4xLTEgLjItMS43LjJoLS4xYy0zLjEgMC01LjctMS44LTcuMS00LS4xLS4yLS4yLS4zLS4yLS41IDAtLjQuMS0uOC4yLTEuMS4zLS44LjctMS42IDEuMi0yLjUuOS0xLjUgMS44LTMgMy4yLTQgLjEtLjEuMS0uMS4yLS4xLjQgMCAuOC4xIDEuMS4yLjguMyAxLjYuNyAyLjUgMS4yIDEuNS45IDMgMS44IDQgMy4yLjEuMS4xLjEuMS4yIDAgLjQtLjEuOC0uMiAxLjEtLjMgLjgtLjcgMS42LTEuMiAyLjUtLjggMS41LTEuOCAzLTMuMiA0LS4xLjEtLjIuMS0uMy4xLS40IDAtLjgtLjEtMS4xLS4yLS44LS4zLTEuNi0uNi0yLjUuOS0xLjUtMS44LTMgMy4yLTQgLjEtLjEuMS0uMS4yLS4xLjQgMCAuOC4xIDEuMS4yLjguMyAxLjYuNyAyLjUgMS4yIDEuNS45IDMgMS44IDQgMy4yLjEuMS4xLjEuMS4yIDAgLjQtLjEuOC0uMiAxLjEtLjMgLjgtLjcgMS42LTEuMiAyLjUtLjggMS41LTEuOCAzLTMuMiA0LS4xLjEtLjIuMS0uMy4xLS40IDAtLjgtLjEtMS4xLS4yLS44LS4zLTEuNi0uNi0yLjUtMS4xLS45LS41LTILTEtMy4yLTEuNy0uMS0uMS0uMi0uMi0uMy0uNCAwLS4yLjEtLjQuMi0uNS4yLS4zLjQtLjUuNy0uOC44LS44IDEuNy0xLjQgMi43LTIgMS4zLS44IDIuOC0xLjMgNC4zLTEuMy45IDAgMS44LjIgMi42LjYuOC40IDEuNSAxIDEgMS43LjEuMi4yLjQuMi41LS4xLjYtLjIgMS4yLS40IDEuNy0uNSAxLjQtMS4yIDIuNy0yLjEgMy45LTEuMiAxLjYtMi42IDMuMS00LjUgMy44LS4xIDAtLjIuMS0uMy4xem0uOC0xLjdjLjEtLjEgLjEtLjIuMS0uMy41LTEuNSAxLjEtMi44IDEuOC00LjEuNS0uOS45LTEuOCAxLjEtMi44LjEtLjQuMS0uOC4xLTEuMSAwLS41LS4xLTEtLjMtMS40LS4zLS41LS42LS44LTEuMS0xLjEtLjctLjQtMS40LS42LTIuMy0uNi0xLjMgMC0yLjYuMy0zLjggMS0uOS41LTEuNyAxLjEtMi40IDEuOC0uNC40LS44LjgtMSAxLjMtLjIuMy0uMy42LS4zLjkgMCAuNS4xIDEgLjIgMS40LjIuNS41LjguOCAxLjEtLjUgMS41LTEuMSAyLjgtMS44IDQuMS0uNS45LS45IDEuOC0xLjEgMi44LS4xLjQtLjEgLjgtLjEgMS4xIDAgLjUuMSAxIC4zIDEuNC4zLjUuNi44IDEuMSAxLjEuNy40IDEuNC42IDIuMy42IDEuMyAwIDIuNi0uMyAzLjgtMSAuOS0uNSAxLjctMS4xIDIuNC0xLjguNC0uNC44LS44IDEtMS4zLjItLjMuMy0uNi4zLS45bADEuMi0zLjR6IiBmaWxsPSJ3aGkl0ZSIvPjwvc3ZnPg%3D%3D
-" alt="Portfolio" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-333333%3Fstyle%3Dfor-the-badge%26logo%3Ddata:image/svg%2Bxml%3Bbase64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BV2Vic2l0ZTwvdGl0bGU%2BPHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMTguNjI3IDAgMTIgMHptNi4yIDE1LjRjLS4yIDAtLjMuMS0uNS4xLTMuMiAwLTUuMy0xLjktNy0zLjktLjEtLjEtLjEtLjEtLjItLjIgLjUgMS42IDEuOCAzLjcgNS4yIDMuNy45IDAgMS40LS4xIDEuOC0uMmwuMS41Yy0uNS4xLTEgLjItMS43LjJoLS4xYy0zLjEgMC01LjctMS44LTcuMS00LS4xLS4yLS4yLS4zLS4yLS41IDAtLjQuMS0uOC4yLTEuMS4zLS44LjctMS42IDEuMi0yLjUuOS0xLjUgMS44LTMgMy4yLTQgLjEtLjEuMS0uMS4yLS4xLjQgMCAuOC4xIDEuMS4yLjguMyAxLjYuNyAyLjUgMS4yIDEuNS45IDMgMS44IDQgMy4yLjEuMS4xLjEuMS4yIDAgLjQtLjEuOC0uMiAxLjEtLjMgLjgtLjcgMS42LTEuMiAyLjUtLjggMS41LTEuOCAzLTMuMiA0LS4xLjEtLjIuMS0uMy4xLS40IDAtLjgtLjEtMS4xLS4yLS44LS4zLTEuNi0uNi0yLjUuOS0xLjUtMS44LTMgMy4yLTQgLjEtLjEuMS0uMS4yLS4xLjQgMCAuOC4xIDEuMS4yLjguMyAxLjYuNyAyLjUgMS4yIDEuNS45IDMgMS44IDQgMy4yLjEuMS4xLjEuMS4yIDAgLjQtLjEuOC0uMiAxLjEtLjMgLjgtLjcgMS42IDEuMiAyLjUtLjggMS41LTEuOCAzLTMuMiA0LS4xLjEtLjIuMS0uMy4xLS40IDAtLjgtLjEtMS4xLS4yLS44LS4zLTEuNi0uNi0yLjUtMS4xLS45LS41LTILTEtMy4yLTEuNy0uMS0uMS0uMi0uMi0uMy0uNCAwLS4yLjEtLjQuMi0uNS4yLS4zLjQtLjUuNy0uOC44LS44IDEuNy0xLjQgMi43LTIgMS4zLS44IDIuOC0xLjMgNC4zLTEuMy45IDAgMS44LjIgMi42LjYuOC40IDEuNSAxIDEgMS43LjEuMi4yLjQuMi41LS4xLjYtLjIgMS4yLS40IDEuNy0uNSAxLjQtMS4yIDIuNy0yLjEgMy45LTEuMiAxLjYtMi42IDMuMS00LjUgMy44LS4xIDAtLjIuMS0uMy4xem0uOC0xLjdjLjEtLjEgLjEtLjIuMS0uMy41LTEuNSAxLjEtMi44IDEuOC00LjEuNS0uOS45LTEuOCAxLjEtMi44LjEtLjQuMS0uOC4xLTEuMSAwLS41LS4xLTEtLjMtMS40LS4zLS41LS42LS44LTEuMS0xLjEtLjctLjQtMS40LS42LTIuMy0uNi0xLjMgMC0yLjYuMy0zLjggMS0uOS41LTEuNyAxLjEtMi40IDEuOC0uNC40LS44LjgtMSAxLjMtLjIuMy0uMy42LS4zLjkgMCAuNS4xIDEgLjIgMS40LjIuNS41LjguOCAxLjEtLjUgMS41LTEuMSAyLjgtMS44IDQuMS0uNS45LS45IDEuOC0xLjEgMi44LS4xLjQtLjEgLjgtLjEgMS4xIDAgLjUuMSAxIC4zIDEuNC4zLjUuNi44IDEuMSAxLjEuNy40IDEuNC42IDIuMy42IDEuMyAwIDIuNi0uMyAzLjgtMSAuOS0uNSAxLjctMS4xIDIuNC0xLjguNC0uNC44LS44IDEtMS4zLjItLjMuMy0uNi4zLS45bADEuMi0zLjR6IiBmaWxsPSJ3GGl0ZSIvPjwvc3ZnPg%3D%3D" alt="Portfolio" />
 </a>
 </p>
