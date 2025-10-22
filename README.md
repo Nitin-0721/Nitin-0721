@@ -31,16 +31,16 @@
 
   <h2>📫 Connect with Me</h2>
   <p align="center">
-    <a href="your-linkedin-link-here" target="_blank">
+    <a href="www.linkedin.com/in/nitin-gupta-2107ng" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
     </a>
-    <a href="your-geeksforgeeks-link-here" target="_blank">
+    <a href="https://www.geeksforgeeks.org/user/nitingupfxxe/" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="40" height="40" alt="GeeksforGeeks"/>
     </a>
-    <a href="your-leetcode-link-here" target="_blank">
+    <a href="https://leetcode.com/u/Nitin_35/" target="_blank">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" width="40" height="40" alt="LeetCode" style="filter: invert(1);"/>
     </a>
-    <a href="your-github-link-here" target="_blank">
+    <a href="https://github.com/Nitin-0721" target="_blank">
       <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
     </a>
   </p>
