@@ -72,9 +72,10 @@
   <hr style="width: 80%; border: 1px solid #444; margin: 20px auto;">
 
   <p align="center" style="margin-top: 10px;">
-    🔗 <a href="https://leetcard.jacoblin.cool/<your-leetcode-username>?theme=dark&font=Roboto&ext=contest" target="_blank" style="color:#58a6ff; text-decoration:none; font-weight:500;">
-      Click here to view my LeetCode Stats
-    </a>
+     <a href="https://leetcard.jacoblin.cool/Nitin_35?theme=dark&font=Roboto&ext=contest" target="_blank" style="color:#58a6ff; text-decoration:none; font-weight:500;">
+  📊 View My LeetCode Stats
+</a>
+
   </p>
 
 </div>
