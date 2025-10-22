@@ -13,8 +13,7 @@
 
   <h1>👋 Hey there!</h1>
   <p style="max-width: 600px; margin: 0 auto;">
-    A passionate <strong>B.Tech student</strong> and <strong>MERN Stack Developer</strong> exploring <strong>Spring Boot</strong>,  
-    <strong>AI/ML</strong>, and <strong>Data Science</strong> while learning new technologies and tools.
+    Full Stack Developer | Learning Spring Boot & AI/ML
   </p>
 
   <hr style="width: 80%; border: 1px solid #444; margin: 20px auto;">
