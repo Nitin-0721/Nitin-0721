@@ -66,7 +66,7 @@
 </a>
 
 <a href="https://leetcode.com/u/Nitin_35/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" width="40" height="40" alt="LeetCode"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40" height="40"/>
 </a>
 
 <a href="https://github.com/Nitin-0721/" target="_blank">
