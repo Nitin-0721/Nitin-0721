@@ -66,7 +66,7 @@
 </a>
 
 <a href="https://leetcode.com/u/Nitin_35/" target="_blank">
-<img src="https://skillicons.dev/icons?i=leetcode" width="40"/>
+  <img src="https://skillicons.dev/icons?i=leetcode" width="40" height="40" alt="LeetCode"/>
 </a>
 
 <a href="https://github.com/Nitin-0721/" target="_blank">
