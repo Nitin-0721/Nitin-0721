@@ -56,7 +56,7 @@
     gap: 20px;
     margin: 10px 0;
   ">
-    <a href="www.linkedin.com/in/nitin-gupta-2107ng">/" target="_blank">
+    <a href="https://www.geeksforgeeks.org/user/<www.linkedin.com/in/nitin-gupta-2107ng>/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
     </a>
     <a href="https://www.geeksforgeeks.org/user/<your-gfg-id>/" target="_blank">
