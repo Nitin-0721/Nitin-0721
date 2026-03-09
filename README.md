@@ -57,25 +57,21 @@
   margin: 10px 0;
 ">
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/nitin-gupta-2107ng" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
-  </a>
+ <a href="https://www.linkedin.com/in/nitin-gupta-2107ng" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
 
-  <!-- GeeksforGeeks -->
-  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="40" height="40" alt="GeeksforGeeks"/>
-  </a>
+<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/" target="_blank">
+<img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="40"/>
+</a>
 
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/Nitin_35/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" width="40" height="40" alt="LeetCode" style="filter: invert(1);"/>
-  </a>
+<a href="https://leetcode.com/u/Nitin_35/" target="_blank">
+<img src="https://skillicons.dev/icons?i=leetcode" width="40"/>
+</a>
 
-  <!-- GitHub -->
-  <a href="https://github.com/Nitin-0721/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
-  </a>
+<a href="https://github.com/Nitin-0721/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+</a>
 
 </div>
 
