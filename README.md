@@ -13,7 +13,7 @@
 
   <h1>👋 Hey there!</h1>
   <p style="max-width: 600px; margin: 0 auto;">
-    Full Stack Developer | Learning Spring Boot & AI/ML
+    MERN Stack Developer | AI/ML 
   </p>
 
   <hr style="width: 80%; border: 1px solid #444; margin: 20px auto;">
