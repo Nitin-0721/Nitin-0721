@@ -68,12 +68,12 @@
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <a href="https://leetcode.com/u/Nitin_35/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" width="40" height="40" alt="LeetCode" style="filter: invert(1);"/>
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/" target="_blank">
+  <a href="https://github.com/Nitin-0721/" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
   </a>
 
