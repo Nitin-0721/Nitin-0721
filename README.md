@@ -48,27 +48,36 @@
 
   <hr style="width: 80%; border: 1px solid #444; margin: 20px auto;">
 
-  <h2>📫 Connect with Me</h2>
-  <div style="
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 20px;
-    margin: 10px 0;
-  ">
-   <a href="https://www.linkedin.com/in/nitin-gupta-2107ng" target="_blank"></a>
-      <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.geeksforgeeks.org/user/<your-gfg-id>/" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="40" height="40" alt="GeeksforGeeks"/>
-    </a>
-    <a href="https://leetcode.com/u/<your-leetcode-username>/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" width="40" height="40" alt="LeetCode" style="filter: invert(1);"/>
-    </a>
-    <a href="https://github.com/<your-github-id>/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
-    </a>
-  </div>
+ <h2>📫 Connect with Me</h2>
+<div style="
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 10px 0;
+">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/nitin-gupta-2107ng" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
+  </a>
+
+  <!-- GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="40" height="40" alt="GeeksforGeeks"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" width="40" height="40" alt="LeetCode" style="filter: invert(1);"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
+  </a>
+
+</div>
 
   <hr style="width: 80%; border: 1px solid #444; margin: 20px auto;">
 
