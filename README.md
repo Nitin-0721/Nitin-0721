@@ -58,7 +58,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Nitin-0721&label=Profile+Views&color=0e75b6&style=flat"/>
 
 <br/>
 
