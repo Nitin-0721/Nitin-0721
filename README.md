@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;
-<a href="https://www.geeksforgeeks.org/user/Nitin Gupta/">
+<a href="https://www.geeksforgeeks.org/user/nitingupfxxe/">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeks-for-geeks&logoColor=white"/>
 </a>
 
