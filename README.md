@@ -27,7 +27,6 @@ const nitin = {
   location    : "India 🇮🇳",
   currentFocus: ["Full Stack Web Development", "Machine Learning", "Problem Solving"],
   techPhilosophy: "Clean code, scalable systems, continuous learning.",
-  funFact     : "I debug at midnight and ship at dawn. 🌙"
 };
 ```
 
@@ -140,7 +139,7 @@ const nitin = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=twinkling" width="100%"/>
 
-<i>"First, solve the problem. Then, write the code." — John Johnson</i>
+<i>Believe.</i>
 
 ⭐ **If you find my work interesting, drop a star on my repos!**
 
