@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Nitin%20Gupta&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=MERN%20Stack%20%7C%20AI%2FML&descSize=16&descAlignY=65&animation=twinkling" width="100%" onerror="this.style.display='none'"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Building+Full+Stack+Apps+🚀;Exploring+AI+%26+Machine+Learning+🤖;Solving+Problems+One+Commit+at+a+Time+✅" onerror="this.style.display='none'"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Building+Full+Stack+Apps+🚀;Exploring+AI+%26+Machine+Learning+🤖;" onerror="this.style.display='none'"/>
 
 <br/>
 
