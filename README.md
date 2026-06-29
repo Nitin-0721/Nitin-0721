@@ -32,7 +32,7 @@
 ### 📊 Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nitin-0721&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&hide=prs&rank_icon=github&cache_seconds=86400" height="155" onerror="this.style.display='none'"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nitin-0721&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&hide=prs&rank_icon=github" height="155" onerror="this.style.display='none'"/>
 <img src="https://streak-stats.demolab.com?user=Nitin-0721&theme=tokyonight&hide_border=true&border_radius=10" height="155" onerror="this.style.display='none'"/>
 </div>
 
