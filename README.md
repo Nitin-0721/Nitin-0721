@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Nitin%20Gupta&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20Agentic%20AI&descSize=16&descAlignY=65&animation=twinkling" width="100%" onerror="this.style.display='none'"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Nitin%20Gupta&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%C2%B7%20Building%20Intelligent%20Systems&descSize=15&descAlignY=65&animation=twinkling" width="100%" onerror="this.style.display='none'"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Building+Agentic+AI+Systems+🤖;Exploring+ML+%26+Deep+Learning+🧠;Full+Stack+AI+Engineer+🚀" onerror="this.style.display='none'"/>
 <br/>
 <a href="https://www.linkedin.com/in/nitin-gupta-2107ng">
